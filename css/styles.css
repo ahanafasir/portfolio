@@ -2,6 +2,11 @@
   buttons and links
 ===================*/
 
+.avatar {
+  height: 30%;
+  border-radius: 20px;
+}
+
 .link {
   color: var(--clr-primary);
   padding: 0 0 0.3em 0;
