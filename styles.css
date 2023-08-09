@@ -56,6 +56,11 @@ body {
   color: var(--clr-bg);
 }
 
+.avatar {
+  height: 50px;
+  border-radius: 10px;
+}
+
 h1,
 h2,
 h3,
