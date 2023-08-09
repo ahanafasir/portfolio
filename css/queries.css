@@ -1,0 +1,11 @@
+@media (max-width: 900px) {
+  h1 {
+    font-size: 2.6rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .header {
+    height: 6em;
+  }
+}
