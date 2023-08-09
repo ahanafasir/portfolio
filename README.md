@@ -1,12 +1,8 @@
-# Cleanfolio Minimal
+# My Portfolio Site
 
-A clean and simple portfolio template built with plain HTML, CSS and JavaScript.
+A minimal two theme portfolio built with plain HTML, CSS and JavaScript.
 
-## Preview
-
-[![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rajshekhar26.github.io/cleanfolio-minimal)
-
-[See Live](https://rajshekhar26.github.io/cleanfolio-minimal)
+visit: https://ahanafasir.netlify.app/
 
 ## License
 
