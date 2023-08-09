@@ -15,7 +15,7 @@ Welcome to my personal portfolio website! This site showcases my creative journe
 
 ## About Me
 
-I am Ahanaf Asir, a passionate and dedicated individual with a strong interest in web development, design, and digital art. With a keen eye for aesthetics and a drive to constantly learn and improve, I aim to create visually appealing and functional websites that leave a lasting impression.
+Specializing in creating sleek and user-centric websites. With 2+ years in the field, I blend design and functionality seamlessly using HTML, CSS, and JavaScript. I enjoy tackling challenges head-on, from bug-squashing to enhancing user experiences. Let's bring your ideas to reality!
 
 ## Projects
 
@@ -48,7 +48,7 @@ I am always expanding my skill set and taking on new challenges. Check out the [
 I would love to connect with you! Feel free to reach out to me through:
 
 - Email: ahanafasir83@gmail.com
-- LinkedIn: [Ahana Fasir](https://www.linkedin.com/in/ahanafasir83)
+- LinkedIn: [Ahanaf Asir](https://www.linkedin.com/in/ahanafasir83)
 
 You can also get in touch using the contact form on my [Contact](https://ahanafasir.netlify.app/contact) page.
 
