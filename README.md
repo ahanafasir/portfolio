@@ -31,7 +31,7 @@ Here are some of the projects I've worked on:
 3. **Project Three**
    Describe the third project in a similar format.
 
-Feel free to explore these projects in more detail on the [Projects](https://ahanafasir.netlify.app/projects) page.
+Feel free to explore these projects in more detail on the [Projects](https://ahanafasir.netlify.app/#projects) page.
 
 ## Skills
 
@@ -41,7 +41,7 @@ My skill set includes:
 - Responsive web design
 - Version control (Git)
 
-I am always expanding my skill set and taking on new challenges. Check out the [Skills](https://ahanafasir.netlify.app/skills) page for a more comprehensive overview.
+I am always expanding my skill set and taking on new challenges. Check out the [Skills](https://ahanafasir.netlify.app/#skills) page for a more comprehensive overview.
 
 ## Contact
 
@@ -50,7 +50,7 @@ I would love to connect with you! Feel free to reach out to me through:
 - Email: ahanafasir83@gmail.com
 - LinkedIn: [Ahanaf Asir](https://www.linkedin.com/in/ahanafasir83)
 
-You can also get in touch using the contact form on my [Contact](https://ahanafasir.netlify.app/contact) page.
+You can also get in touch using the contact form on my [Contact](https://ahanafasir.netlify.app/#contact) page.
 
 Thank you for visiting my portfolio website! I hope you enjoy exploring my work as much as I enjoyed creating it. Your feedback and inquiries are greatly appreciated.
 
