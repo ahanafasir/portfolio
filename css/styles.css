@@ -277,7 +277,7 @@ main {
   position: absolute;
   right: 0;
   left: 0;
-  top: 5em;
+  top: 6em;
   background-color: var(--clr-bg);
   width: 0;
   overflow: hidden;

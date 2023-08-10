@@ -15,7 +15,9 @@ Welcome to my personal portfolio website! This site showcases my creative journe
 
 ## About Me
 
-Specializing in creating sleek and user-centric websites. With 2+ years in the field, I blend design and functionality seamlessly using HTML, CSS, and JavaScript. I enjoy tackling challenges head-on, from bug-squashing to enhancing user experiences. Let's bring your ideas to reality!
+Specializing in creating sleek and user-centric websites. I blend
+design and functionality seamlessly using HTML, CSS, and JavaScript.
+Let's bring your ideas to reality!
 
 ## Projects
 
