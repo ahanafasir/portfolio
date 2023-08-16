@@ -23,12 +23,13 @@ Let's bring your ideas to reality!
 
 Here are some of the projects I've worked on:
 
-1. **Project One**
+1. **Omnifood**
    A static food subscription website developed with HTML, CSS & JavaScript
    visit: https://o-mnifood.netlify.app/
 
-2. **Project Two**
-   A brief description of the second project. Similar to above, mention the goal, technologies, and outcomes.
+2. **Asian Power BD**
+   Single Page Application developed for a local power company.
+   visit: https://asianpowerbd.com/
 
 3. **Project Three**
    Describe the third project in a similar format.
@@ -39,7 +40,7 @@ Feel free to explore these projects in more detail on the [Projects](https://aha
 
 My skill set includes:
 
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, PHP, SQL
 - Responsive web design
 - Version control (Git)
 
