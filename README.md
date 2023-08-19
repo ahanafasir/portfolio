@@ -23,15 +23,15 @@ Let's bring your ideas to reality!
 
 Here are some of the projects I've worked on:
 
-1. **Omnifood**
+1. **Omnifood**:
    A static food subscription website developed with HTML, CSS & JavaScript
    visit: https://o-mnifood.netlify.app/
 
-2. **PHP Contact Form**
+2. **PHP Contact Form**:
    A contact form with e-mail functionalities developed with JavaScript, PHP & XAMPP.
    visit: https://github.com/ahanafasir/contact-form
 
-3. **Asian Power BD**
+3. **Asian Power BD**:
    A Single Page Application developed for a local power company.
    visit: https://asianpowerbd.com/
 
