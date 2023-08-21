@@ -11,6 +11,7 @@ Welcome to my personal portfolio website! This site showcases my creative journe
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Skills](#skills)
+- [Blog](#blog)
 - [Contact](#contact)
 
 ## About Me
@@ -52,6 +53,10 @@ My skill set includes:
 - Version control (Git)
 
 I am always expanding my skill set and taking on new challenges. Check out the [Skills](https://ahanafasir.netlify.app/#skills) page for a more comprehensive overview.
+
+## Blog
+
+Launched a new blog feature for my portfolio site. I'll be writing stuff down here from now on.
 
 ## Contact
 
