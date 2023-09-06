@@ -229,6 +229,18 @@ main {
   margin-left: 0.5em;
 }
 
+.more__projects {
+  padding: 2em;
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+.projects__link {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--clr-fg);
+}
+
 .skills__list {
   max-width: 450px;
   width: 95%;
