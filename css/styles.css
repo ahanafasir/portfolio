@@ -254,9 +254,9 @@ main {
   margin: 0.5em;
 }
 
-/* .posts {
+.posts, .projects {
   padding-top: 2em;
-} */
+}
 
 .blog__grid {
   max-width: 1100px;
