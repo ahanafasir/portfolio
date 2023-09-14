@@ -310,6 +310,10 @@ main {
   color: var(--clr-fg);
 }
 
+.posts {
+  margin-top: 2em;
+}
+
 .contact {
   flex-direction: column;
 }
