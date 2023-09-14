@@ -196,7 +196,7 @@ main {
 }
 
 .project {
-  padding: 2em;
+  padding: 0.5em;
   margin: 0 auto;
   text-align: center;
   box-shadow: var(--shadow);
