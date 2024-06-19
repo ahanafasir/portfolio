@@ -1,9 +1,19 @@
 /*===================
   buttons and links
 ===================*/
+.banner {
+  width: 100%;
+  background-color: yellow;
+  font-family: inherit;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: center;
+  padding: 5px 0 5px 0;
+  color: red;
+}
 
 .avatar {
-  height: 30%;
+  height: 25%;
   border-radius: 20px;
   border: 3px solid var(--clr-primary);
 }
@@ -231,11 +241,11 @@ main {
   margin-left: 0.5em;
 }
 
-/* .more__services {
+.more__services {
   padding: 2em;
   margin-top: 0.5em;
   text-align: center;
-} */
+}
 
 .services__link {
   font-size: 0.9rem;

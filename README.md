@@ -16,31 +16,29 @@ Welcome to my personal portfolio website! This site showcases my creative journe
 
 ## About Me
 
-Specializing in creating sleek and user-centric websites. I blend
-design and functionality seamlessly using HTML, CSS, and JavaScript.
-Let's bring your ideas to reality!
+Specializing in Software Testing, E-commerce, and Shopify development.
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-1. **Omnifood**:
+1. **Twinkle**:
 
-   A static food subscription website developed with HTML, CSS & JavaScript.
+   E-commerce platform to plan your parties.
 
-   visit: https://o-mnifood.netlify.app/
+   visit: https://twinkle.sa/
 
-2. **PHP Contact Form**:
+2. **ParentData**:
 
-   A contact form with e-mail functionalities developed with JavaScript, PHP & XAMPP.
+   A platform for parents to learn more.
 
-   visit: https://github.com/ahanafasir/contact-form
+   visit: https://parentdata.org/
 
-3. **Asian Power BD**:
+3. **Portless**:
 
-   A Single Page Application developed for a local power company.
+   Merchant dashboard for dropshipping businesses
 
-   visit: https://asianpowerbd.com/
+   visit: https://www.portless.com/
 
 Feel free to explore these projects in more detail on the [Projects](https://ahanafasir.netlify.app/#projects) page.
 
